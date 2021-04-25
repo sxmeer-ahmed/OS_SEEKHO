@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138255318028",
+    "project_id": "os-seekho",
+    "storage_bucket": "os-seekho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138255318028:android:1a4652e3a640ef64eb0229",
+        "android_client_info": {
+          "package_name": "com.example.os_seekho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138255318028-3snarqc4kgjpjhq2ahf70jm5e0ggsvpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.os_seekho",
+            "certificate_hash": "0ad25c2e372721daed7713a9f68115e34a77dbae"
+          }
+        },
+        {
+          "client_id": "138255318028-3slhrj8jjj7bqcgqtki7trgskh5rhjm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxIT8Ti8nNaB5AJsmjm69P-G1mA7U64Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138255318028-3slhrj8jjj7bqcgqtki7trgskh5rhjm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
