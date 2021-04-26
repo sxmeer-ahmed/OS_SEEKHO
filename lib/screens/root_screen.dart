@@ -6,7 +6,6 @@ import 'package:google_fonts/google_fonts.dart';
 
 import 'package:os_seekho/screens/tab_navigator.dart';
 import 'package:os_seekho/util/screen_size.dart';
-import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:jumping_bottom_nav_bar/jumping_bottom_nav_bar.dart';
 
 class RootScreen extends StatefulWidget {

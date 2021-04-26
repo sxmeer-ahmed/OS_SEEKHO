@@ -60,7 +60,7 @@ class _SplashScreenState extends State<SplashScreen> {
               child: TyperAnimatedTextKit(
                 onTap: () {},
                 text: [
-                  "SAMEER AHMED\n2K19-CO-336\nSUBMITTED TO:\n D. GUPTA MA'AM",
+                  "SAMEER AHMED\n2K19/CO/336\nSUBMITTED TO:\n D.GUPTA MA'AM",
                 ],
                 displayFullTextOnTap: true,
 

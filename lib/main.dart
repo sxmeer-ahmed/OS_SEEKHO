@@ -8,13 +8,11 @@ import 'package:os_seekho/screens/onboarding_screen.dart';
 import 'package:os_seekho/screens/splash_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'screens/root_screen.dart';
-import 'package:flutter_google_maps/flutter_google_maps.dart';
 
 final GlobalKey<NavigatorState> navigatorKey = new GlobalKey<NavigatorState>();
 
 UserModel user;
 Future<void> main() async {
-  GoogleMap.init('API_KEY');
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   SharedPreferences pref = await SharedPreferences.getInstance();
